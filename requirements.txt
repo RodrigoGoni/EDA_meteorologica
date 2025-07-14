@@ -6,3 +6,5 @@ seaborn
 missingno
 statsmodels
 unidecode
+geopandas
+geodatasets
