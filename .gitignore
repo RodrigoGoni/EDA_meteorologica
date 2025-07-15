@@ -208,3 +208,5 @@ __marimo__/
 eda
 *.zip
 climogramas
+datos/pais
+datos/provincia
